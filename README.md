@@ -8,9 +8,9 @@ To play with the code you will need to:
 
 Download Processing – link here https://processing.org
 
-Unzip the attached file and load it into Processing
+Unzip the attached files and load into Processing
 
-Have a play with the code on 3 ad artworks (also in the zipped file).
+Have a play with the code on 3 ad artworks.
 
 Please apply your coding to the Find yourself valued/challenged or driving change and show us your code! Please leave the Liberty logo and the CTA at the bottom as they are.
 
