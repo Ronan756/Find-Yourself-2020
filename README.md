@@ -1,7 +1,7 @@
 # Find-Yourself-2020
 Liberty Recruitment 2020 - a campaign in ascii
 
-We would love you to have a play with the code and see what you can do with it – submit it on GitHub before **Friday 23 October** and we might include it in our advertising campaign (and you might even win a Nespresso machine)!
+We would love you to have a play with the code and see what you can do with it – submit it on GitHub before **Friday 23 October** and you could see it in our advertising campaign (and you might even win a Nespresso machine)!
 
 # How to take part
 To play with the code you will need to:
